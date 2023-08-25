@@ -1,4 +1,4 @@
-package com.wipro.bank;
+package com.bank.test;
 
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
