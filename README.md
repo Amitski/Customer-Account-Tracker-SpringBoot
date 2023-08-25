@@ -1,4 +1,4 @@
-Customer Account Tracker - Banking Application using Spring Boot
+**Customer Account Tracker - Banking Application**
 Welcome to the Customer Account Tracker application for Banking, developed using Spring Boot and RESTful services. This application provides a robust backend solution for managing customer accounts with features such as account creation, account information updates, and transaction processing.
 
 **Features:**
